@@ -63,7 +63,7 @@ public class Trade{
 		this.numberOfSecuritiesTraded = numberOfSecuritiesTraded;
 	}
 
-	public static List<Trade> getListOfTrades() {
+	public List<Trade> getListOfTrades() {
 		return listOfTrades;
 	}
 
